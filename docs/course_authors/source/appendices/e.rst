@@ -9,6 +9,8 @@
 APPENDIX E: Problem Types
 ==========================
 
+.. _Option Response:
+
 Option Response
 ===============
 
@@ -247,6 +249,8 @@ Sample Problem:
   
      \newpage %
 
+
+.. _String Response:
 
 String Response
 ===============
@@ -613,6 +617,7 @@ The default included functions are the following:
       \newpage %
 
 
+.. _Formula Response:
 
 Formula Response
 ================
@@ -738,6 +743,7 @@ size      (optional) defines the size (i.e. the width)
   
       \newpage %
 
+.. _Image Response:
 
 Image Response
 ==============
@@ -788,6 +794,8 @@ XML Attribute Information
   
       \newpage %
 
+
+.. _Custom Response: 
 
 Custom Response
 ===============
