@@ -9,7 +9,7 @@ Contents
 
 .. toctree::
    :numbered:
-   :maxdepth: 5
+   :maxdepth: 2
 
    read_me
    get_started
@@ -32,6 +32,7 @@ Contents
    accessibility
    checking_student_progress
    ora_students
+   glossary
    change_log
 
 
